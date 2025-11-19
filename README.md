@@ -1,7 +1,7 @@
 # Human-Motion-Detection-System-Using-CNN
 Human Motion Detection using CNN Model which recognizes walking, running and no motion states.
 
-You can download the dataset for training from the below link
+You can download the dataset for training from the link
 https://www.csc.kth.se/cvap/actions
 
 After downloading dataset, seperate the datasets into 3 folders namely no_motion, running and walking and put these into folder named "dataset".
